@@ -1,0 +1,18 @@
+Vilnius Barcelona 300
+Vilnius Rome 150
+Riga NewYork 400
+Berlin Stockholm 200
+Warsaw Bucharest 150
+Milan Viena 100
+London Athens 350
+Rome Stockholm 320
+Barcelona Berlin 170
+Viena London 220
+Viena Warsaw 140
+NewYork Tallinn 440
+Paris Vilnius 160
+Athens Berlin 150
+Milan Warsaw 180
+Rome Paris 170
+NewYork Madrid 360
+ 
